@@ -1,3 +1,8 @@
 title: Ashley Dosch
-description: Python ETL, Public Safety Spectrum Management, and Other Projects
-theme: minima
+description: Knowledge Sharing and Innovation Unveiling
+url: "https://ashdosch.github.io"
+
+markdown: kramdown
+
+exclude:
+  - README.md
