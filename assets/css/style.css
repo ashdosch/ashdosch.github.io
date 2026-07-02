@@ -158,6 +158,7 @@ main {
 
 .hero-image-card {
   position: relative;
+  transform: translateX(-40px);
   border: 1px solid var(--border);
   border-radius: 1.25rem;
   overflow: hidden;
