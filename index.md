@@ -27,9 +27,9 @@ title: Home
   </div>
 
   <div class="hero-image-card">
-    <img src="./assets/images/cooper.jpg" alt="Cooper, Chief Morale Officer">
+    <img src="./assets/images/IMg_2289 (1).jpeg" alt="Artie, Chief Morale Officer">
     <div class="dog-caption">
-      <strong>Meet Cooper</strong>
+      <strong>Meet Arthas</strong>
       <span>Chief morale officer & expert in deadline supervision</span>
     </div>
   </div>
