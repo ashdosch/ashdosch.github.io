@@ -175,7 +175,7 @@ main {
 
 .dog-caption {
   position: absolute;
-  right: 1.25rem;
+  left: 1.25rem;
   bottom: 1.25rem;
   max-width: 260px;
   padding: 1rem;
