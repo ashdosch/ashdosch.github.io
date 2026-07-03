@@ -9,7 +9,7 @@ title: Projects
 </section>
 
 <section class="project-detail" id="python-etl-framework">
-  <h2>Python ETL Framework</h2>
+  <h2>ETL Pipeline | </h2>
 
   <p>
     A reusable Python framework for extracting source data, validating records,
