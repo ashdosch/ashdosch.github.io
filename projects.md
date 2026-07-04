@@ -18,7 +18,7 @@ title: Opuses
   </p>
 
   <p>
-    <img src="../assets/images/data_bridge_diagram.svg" alt="Data Bridge Framework Architecture Diagram" style="max-width: 100%; height: auto; border: 1px solid #cbd5e1; border-radius: 8px; margin: 15px 0;" />
+    <img src="../assets/images/data-bridge-diagram.svg" alt="Data Bridge Framework Architecture Diagram" style="max-width: 100%; height: auto; border: 1px solid #cbd5e1; border-radius: 8px; margin: 15px 0;" />
   </p>
 
   <h3>Highlights</h3>

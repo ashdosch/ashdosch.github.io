@@ -2,7 +2,7 @@
 
 Welcome!
 
-**Live Site:** https://ashdosch.github.io *(available once GitHub Pages is enabled)*
+**Live Site:** https://ashdosch.github.io
 
 ## About
 
@@ -20,7 +20,7 @@ Areas of focus include:
 
 ## Featured Projects
 
-### Python ETL Framework
+### Data Framework
 
 A reusable, configuration-driven ETL framework for extracting, validating, transforming, and loading data between enterprise systems.
 
