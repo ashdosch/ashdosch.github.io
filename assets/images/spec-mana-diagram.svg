@@ -73,7 +73,6 @@
     <rect x="0" y="0" width="180" height="65" rx="6" fill="#0b0f19" stroke="#1e293b" stroke-width="1.5"/>
     <text x="90" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0" text-anchor="middle">Batch Data Serialization</text>
   </g>
-
   <rect x="360" y="370" width="380" height="40" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1" stroke-dasharray="4"/>
   <text x="550" y="395" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#10b981" font-weight="600" text-anchor="middle">⚡ Event-Driven Asynchronous Pipeline</text>
 
