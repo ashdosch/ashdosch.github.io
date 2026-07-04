@@ -21,28 +21,28 @@ title: Home
     <div class="stats">
       <!-- Migrations -->
       <div class="stat-item">
-        <div class="stat-icon"><img src="./assets/images/data-migration.png" alt="Migration Projects"></div>
+        <div class="stat-icon"><img src="./assets/images/icons/data-migration.svg" alt="Migration Projects"></div>
         <strong>5+</strong>
         <span>Migration Projects Completed</span>
       </div>
 
       <!-- Education: Master's -->
       <div class="stat-item">
-        <div class="stat-icon"><img src="./assets/images/statistics.png" alt="Statistical Modeling"></div>
+        <div class="stat-icon"><img src="./assets/images/icons/statistics.svg" alt="Statistical Modeling"></div>
         <strong>M.S.</strong>
         <span>Data Science - Statistical Modeling and Analytics</span>
       </div>
 
       <!-- Scrubbing -->
       <div class="stat-item">
-        <div class="stat-icon"><img src="./assets/images/database-icon.png" alt="Database icon"></div>
+        <div class="stat-icon"><img src="./assets/images/icons/database-icon.svg" alt="Database icon"></div>
         <strong>Millions</strong>
         <span>Data Records Scrubbed, Validated, and Analyzed</span>
       </div>
 
       <!-- Experience -->
       <div class="stat-item">
-        <div class="stat-icon"><img src="./assets/images/years-experience.png" alt="Years of Experience"></div>
+        <div class="stat-icon"><img src="./assets/images/icons/years-experience.svg" alt="Years of Experience"></div>
         <strong>8+</strong>
         <span>Years Experience</span>
       </div>
@@ -60,37 +60,37 @@ title: Home
 
 <section class="expertise-grid">
   <article>
-    <div class="icon"><img src="./assets/images/etl-data-engineering.png" alt="Process Automation & Innovation"></div>
+    <div class="icon"><img src="./assets/images/icons/etl-data-engineering.svg" alt="Process Automation & Innovation"></div>
     <h3>Process Automation & Innovation</h3>
     <p>Engineering innovative, automated workflows that eliminate manual interventions, optimize operational efficiency, and scale data infrastructure for future growth.</p>
   </article>
 
   <article>
-    <div class="icon"><img src="./assets/images/pipeline.png" alt="ETL & Pipeline Engineering"></div>
+    <div class="icon"><img src="./assets/images/icons/pipeline.svg" alt="ETL & Pipeline Engineering"></div>
     <h3>ETL & Pipeline Engineering</h3>
     <p>Architecting reliable, Python-powered pipelines and advanced SQL systems focused on secure, high-performance data communications.</p>
   </article>
 
   <article>
-    <div class="icon"><img src="./assets/images/data-engineering-article.png" alt="System Integration & Migration"></div>
+    <div class="icon"><img src="./assets/images/icons/data-engineering-article.svg" alt="System Integration & Migration"></div>
     <h3>System Integration & Migration</h3>
     <p>Executing complex data migrations across enterprise platforms, including deep expertise with LMS, AMS, OMS, CRM, and ERP Solutions, ensuring structural integrity and automated synchronization.</p>
   </article>
 
   <article>
-    <div class="icon"><img src="./assets/images/data-quality-article.png" alt="Data Quality & Statistical Modeling"></div>
+    <div class="icon"><img src="./assets/images/icons/data-quality-article.svg" alt="Data Quality & Statistical Modeling"></div>
     <h3>Data Quality & Statistical Modeling</h3>
     <p>Developing rigorous matching algorithms and validation frameworks to transform raw records into trustworthy, analytics-ready assets.</p>
   </article>
 
   <article>
-    <div class="icon"><img src="./assets/images/comp-sci.png" alt="Business Intelligence & Visualization"></div>
+    <div class="icon"><img src="./assets/images/icons/comp-sci.svg" alt="Business Intelligence & Visualization"></div>
     <h3>Business Intelligence & Visualization</h3>
     <p>Designing impactful dashboards and visual analytics that translate complex datasets into clear, actionable insights for business strategy.</p>
   </article>
 
   <article>
-    <div class="icon"><img src="./assets/images/api-icon.png" alt="API Architecture & Integration"></div>
+    <div class="icon"><img src="./assets/images/icons/api-icon.svg" alt="API Architecture & Integration"></div>
     <h3>API Architecture & Integration</h3>
     <p>Designing and implementing robust API integrations to connect disparate platforms, ensuring secure, high-speed data exchange and seamless system interoperability.</p>
   </article>
