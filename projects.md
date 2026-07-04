@@ -10,6 +10,8 @@ title: Opuses
   </p>
 </section>
 
+---
+
 <section class="project-detail" id="data-bridge-framework">
   <h2>Canonical Data Bridge | Malleable ETL Framework for Ecommerce and Beyond</h2>
 
@@ -37,6 +39,9 @@ title: Opuses
   </p>
 </section>
 
+---
+
+
 <section class="project-detail" id="spectrum-management-prototype">
   <h2>Spectrum Management Prototype | Robust and Modern Frequency Coordination for Public Safety</h2>
 
@@ -61,9 +66,12 @@ title: Opuses
   <p>
     <a class="button primary" href="https://github.com/ashdosch/Spectrum-Management-Prototype">View Repository</a>
     <a class="button secondary" href="projects/spectrum-management" style="margin-left: 10px;">View Core Platform docs</a>
-    <a class="button secondary" href="projects/spectrum-management-static" style="margin-left: 10px;">View Example Portal UI</a>
+    <a class="button secondary" href="projects/spectrum-management-dash-static" style="margin-left: 10px;">View Example Portal UI</a>
   </p>
 </section>
+
+---
+
 
 <section class="project-detail" id="data-matching-toolkit">
   <h2>Data Scrubbing | Algorithms and Data Models for Rectifying Industry Agnostic Data</h2>

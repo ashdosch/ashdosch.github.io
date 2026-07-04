@@ -5,26 +5,49 @@ title: Home
 
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Data Engineer · Problem Solver · Automation Enthusiast</p>
+    <p class="eyebrow">Data Engineer & Scientist · Problem Solver · Automation Enthusiast</p>
 
-    <h1>Turning messy data into meaningful impact.</h1>
+    <h1>Transforming data into intelligent systems.</h1>
 
     <p class="hero-text">
-      I build Python-powered ETL pipelines, data migration solutions, and operational tools that help organizations move faster, work smarter, and make better decisions.
+      I bridge the gap between complex data engineering and advanced analytics, building the automated pipelines, scalable infrastructure, and operational tools necessary to transform high-volume datasets into strategic, actionable clarity.
     </p>
 
     <div class="hero-actions">
-      <a class="button primary" href="./projects">View My Projects →</a>
-      <a class="button secondary" href="./articles">Read My Articles</a>
+      <a class="button primary" href="./projects">View My Projects & Concepts →</a>
+      <!-- <a class="button secondary" href="./articles">Read My Articles</a> -->
     </div>
 
     <div class="stats">
-      <div><strong>12M+</strong><span>Records Processed</span></div>
-      <div><strong>99.8%</strong><span>Validation Accuracy</span></div>
-      <div><strong>40+</strong><span>Automation Scripts</span></div>
-      <div><strong>5+</strong><span>Years Experience</span></div>
+      <!-- Migrations -->
+      <div class="stat-item">
+        <div class="stat-icon"><img src="./assets/images/data-migration.png" alt="Migration Projects"></div>
+        <strong>5+</strong>
+        <span>Migration Projects Completed</span>
+      </div>
+
+      <!-- Education: Master's -->
+      <div class="stat-item">
+        <div class="stat-icon"><img src="./assets/images/statistics.png" alt="Statistical Modeling"></div>
+        <strong>M.S.</strong>
+        <span>Data Science - Statistical Modeling and Analytics</span>
+      </div>
+
+      <!-- Scrubbing -->
+      <div class="stat-item">
+        <div class="stat-icon"><img src="./assets/images/database-icon.png" alt="Database icon"></div>
+        <strong>Millions</strong>
+        <span>Data Records Scrubbed, Validated, and Analyzed</span>
+      </div>
+
+      <!-- Experience -->
+      <div class="stat-item">
+        <div class="stat-icon"><img src="./assets/images/years-experience.png" alt="Years of Experience"></div>
+        <strong>8+</strong>
+        <span>Years Experience</span>
+      </div>
     </div>
-  </div>
+      </div>
 
   <div class="hero-image-card">
     <img src="./assets/images/arthas.jpeg" alt="Artie, Chief Morale Officer">
@@ -37,30 +60,44 @@ title: Home
 
 <section class="expertise-grid">
   <article>
-    <div class="icon">◎</div>
-    <h3>ETL & Data Engineering</h3>
-    <p>Designing reliable pipelines with validation, logging, and performance in mind.</p>
+    <div class="icon"><img src="./assets/images/etl-data-engineering.png" alt="Process Automation & Innovation"></div>
+    <h3>Process Automation & Innovation</h3>
+    <p>Engineering innovative, automated workflows that eliminate manual interventions, optimize operational efficiency, and scale data infrastructure for future growth.</p>
   </article>
 
   <article>
-    <div class="icon">▤</div>
-    <h3>Data Migration</h3>
-    <p>Moving complex data between systems with accuracy, integrity, and automation.</p>
+    <div class="icon"><img src="./assets/images/pipeline.png" alt="ETL & Pipeline Engineering"></div>
+    <h3>ETL & Pipeline Engineering</h3>
+    <p>Architecting reliable, Python-powered pipelines and advanced SQL systems focused on secure, high-performance data communications.</p>
   </article>
 
   <article>
-    <div class="icon">▥</div>
-    <h3>Data Quality & Matching</h3>
-    <p>Building matching algorithms and validation rules that improve data you can trust.</p>
+    <div class="icon"><img src="./assets/images/data-engineering-article.png" alt="System Integration & Migration"></div>
+    <h3>System Integration & Migration</h3>
+    <p>Executing complex data migrations across enterprise platforms, including deep expertise with LMS, AMS, OMS, CRM, and ERP Solutions, ensuring structural integrity and automated synchronization.</p>
   </article>
 
   <article>
-    <div class="icon">&lt;/&gt;</div>
-    <h3>Tools & Prototypes</h3>
-    <p>Creating internal tools and prototypes that solve real operational challenges.</p>
+    <div class="icon"><img src="./assets/images/data-quality-article.png" alt="Data Quality & Statistical Modeling"></div>
+    <h3>Data Quality & Statistical Modeling</h3>
+    <p>Developing rigorous matching algorithms and validation frameworks to transform raw records into trustworthy, analytics-ready assets.</p>
+  </article>
+
+  <article>
+    <div class="icon"><img src="./assets/images/comp-sci.png" alt="Business Intelligence & Visualization"></div>
+    <h3>Business Intelligence & Visualization</h3>
+    <p>Designing impactful dashboards and visual analytics that translate complex datasets into clear, actionable insights for business strategy.</p>
+  </article>
+
+  <article>
+    <div class="icon"><img src="./assets/images/api-icon.png" alt="API Architecture & Integration"></div>
+    <h3>API Architecture & Integration</h3>
+    <p>Designing and implementing robust API integrations to connect disparate platforms, ensuring secure, high-speed data exchange and seamless system interoperability.</p>
   </article>
 </section>
 
+
+<!--
 <section class="articles-preview">
   <div class="articles-intro">
     <p class="eyebrow">Latest Articles</p>
@@ -96,10 +133,12 @@ title: Home
   </div>
 </section>
 
+-->
+
 <section class="contact-cta">
   <div>
-    <h2>Let’s build something great together.</h2>
-    <p>I’m open to discussing new opportunities, interesting challenges, and data-heavy systems work.</p>
+    <h2>Let's build something great together.</h2>
+    <p>I'm open to discussing new opportunities, interesting challenges, and data-heavy systems work.</p>
   </div>
   <a class="button primary" href="mailto:adosch93@gmail.com">Get In Touch →</a>
 </section>
