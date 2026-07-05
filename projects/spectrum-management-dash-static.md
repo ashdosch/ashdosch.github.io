@@ -2,7 +2,6 @@
 
 This module displays the public-facing component of the Spectrum Coordination engine. It implements real-time client-side type checking, formatting rules for coordinate boundaries, and secure validation gates to guarantee clean downstream analytical structures.
 
-```html
 <div style="background-color: #f8fafc; padding: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; border-radius: 12px; color: #334155; max-width: 900px; margin: 0 auto; box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.08); border: 1px solid #e2e8f0;">
     
     <div style="border-bottom: 1px solid #e2e8f0; padding-bottom: 20px; margin-bottom: 30px;">
@@ -73,4 +72,3 @@ This module displays the public-facing component of the Spectrum Coordination en
 
     </form>
 </div>
-```
