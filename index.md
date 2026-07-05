@@ -5,12 +5,12 @@ title: Home
 
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Data Engineer & Scientist · Problem Solver · Automation Enthusiast</p>
+    <p class="eyebrow">Data Engineer & Scientist · Automation Enthusiast</p>
 
     <h1>Transforming data into intelligent systems.</h1>
 
     <p class="hero-text">
-      I bridge the gap between complex data engineering and advanced analytics, building the automated pipelines, scalable infrastructure, and operational tools necessary to transform high-volume datasets into strategic, actionable clarity.
+      I bridge the gap between complex data engineering and advanced analytics, building the automated pipelines, scalable infrastructure, and operational tools necessary to transform data into clarity.
     </p>
 
     <div class="hero-actions">
@@ -53,7 +53,7 @@ title: Home
     <img src="./assets/images/arthas.jpeg" alt="Artie, Chief Morale Officer">
     <div class="dog-caption">
       <strong>Meet Arthas</strong>
-      <span>Chief morale officer & expert in deadline supervision</span>
+      <span>Chief Morale Officer & Expert in Deadline Supervision</span>
     </div>
   </div>
 </section>
