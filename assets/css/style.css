@@ -161,9 +161,9 @@ main {
 }
 
 .stat-icon {
-  width: 224px;
-  height: 224px;
-  min-width: 224px;
+  width: 112px;
+  height: 112px;
+  min-width: 112px;
   border-radius: 999px;
   display: grid;
   place-items: center;
@@ -174,10 +174,10 @@ main {
 
 .stat-icon img {
   display: block;
-  width: 224px;
-  height: 224px;
-  max-width: 224px;
-  max-height: 224px;
+  width: 112px;
+  height: 112px;
+  max-width: 112px;
+  max-height: 112px;
   object-fit: contain;
 }
 
@@ -257,10 +257,10 @@ main {
 
 .icon img {
   display: block;
-  width: 56px;
-  height: 56px;
-  max-width: 56px;
-  max-height: 56px;
+  width: 96px;
+  height: 96px;
+  max-width: 96px;
+  max-height: 96px;
   object-fit: contain;
 }
 
