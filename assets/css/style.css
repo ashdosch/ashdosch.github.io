@@ -243,9 +243,9 @@ main {
 }
 
 .icon {
-  width: 44px;
-  height: 44px;
-  min-width: 44px;
+  width: 96px;
+  height: 96px;
+  min-width: 96px;
   border-radius: 999px;
   display: grid;
   place-items: center;
@@ -257,10 +257,10 @@ main {
 
 .icon img {
   display: block;
-  width: 28px;
-  height: 28px;
-  max-width: 28px;
-  max-height: 28px;
+  width: 56px;
+  height: 56px;
+  max-width: 56px;
+  max-height: 56px;
   object-fit: contain;
 }
 
