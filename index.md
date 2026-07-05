@@ -72,7 +72,7 @@ title: Home
   </article>
 
   <article>
-    <div class="icon"><img src="./assets/images/icons/data-engineering-article.png" alt="System Integration & Migration"></div>
+    <div class="icon"><img src="./assets/images/icons/data-engineering-article2.png" alt="System Integration & Migration"></div>
     <h3>System Integration & Migration</h3>
     <p>Executing complex data migrations across enterprise platforms, including deep expertise with LMS, AMS, OMS, CRM, and ERP Solutions, ensuring structural integrity and automated synchronization.</p>
   </article>
